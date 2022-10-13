@@ -21,7 +21,7 @@ Danny has shared with you 3 key datasets for this case study:
 * sales
 * menu
 * members
-You can inspect the entity relationship diagram and example data below.
+#### You can inspect the entity relationship diagram and example data below.
 
 # Entity Relationship Diagram
 ![CaseStudy_one!](https://user-images.githubusercontent.com/111879997/189985891-14fa2685-57bd-4c20-bb50-fdb2896b3a4c.png)
